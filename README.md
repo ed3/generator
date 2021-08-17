@@ -3,4 +3,4 @@ Laminas generator
 
 # settings
 - add generator namespace
-- after create module, need to add the new module namespace
+- after generate module, need to add the new module namespace
